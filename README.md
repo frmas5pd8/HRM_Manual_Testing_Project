@@ -1,1 +1,1 @@
-# HR_We_Manual_Testing_Project
+# HRM_Application_Manual_Testing_Project
