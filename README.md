@@ -10,7 +10,7 @@
 # Test Plan Document
 * It is a comprehensive document that outlines the approach, objectives, scope, resources, and schedule for testing a software application or system. It defines the testing strategies, test cases, and methodologies to ensure thorough verification and validation of the software's functionality. The test plan serves as a roadmap for the testing process, ensuring that all aspects of the software are examined to identify and resolve any issues before its release.
 * File uploaded in the repo of main branch. Also shared a link of file.
-* Link : https://drive.google.com/file/d/19ZBriwKMOyJrGK-4Fu7V5R7rj89sqJVE/view?usp=drive_link
+* Link : 
   
 # Test Scenario Document
 * It is a specific set of test cases that collectively verify a particular aspect or functionality of a software application. It defines the conditions, actions, and expected results to test a specific requirement or feature. Test scenarios help ensure comprehensive testing coverage and aid in identifying defects early in the testing process.
