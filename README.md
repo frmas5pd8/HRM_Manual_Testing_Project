@@ -40,7 +40,7 @@
 # Requirements Traceability Matrix (RTM) Document
 * It is a table that links software requirements to corresponding test cases. It ensures comprehensive test coverage and helps track the validation of each requirement throughout the testing process. RTM aids in verifying that all requirements are met, fostering effective test management and alignment with project objectives.
 * File uploaded in the repo of main branch. Also shared a link of file.
-* Link : 
+* Link : https://docs.google.com/spreadsheets/d/1UIKa1ksheY16uMQxNBlR35qQhLURLEAm/edit?usp=sharing&ouid=106596647200074532753&rtpof=true&sd=true
 
 
 
