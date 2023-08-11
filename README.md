@@ -15,7 +15,7 @@
 # Test Scenario Document
 * It is a specific set of test cases that collectively verify a particular aspect or functionality of a software application. It defines the conditions, actions, and expected results to test a specific requirement or feature. Test scenarios help ensure comprehensive testing coverage and aid in identifying defects early in the testing process.
 * File uploaded in the repo of main branch. Also shared a link of file.
-* Link : 
+* Link : https://docs.google.com/spreadsheets/d/1ykAQ4-Zp8DuUnGSQHEcdvclVffr_rD4V/edit?usp=drive_link&ouid=106596647200074532753&rtpof=true&sd=true
   
 # Test Case Document
 * It is a detailed set of instructions or steps designed to validate a specific functionality or behavior of a software system. It includes preconditions, inputs, expected outcomes, and post-conditions. Test cases serve as executable documentation to verify that the software meets the specified requirements and performs as expected.
