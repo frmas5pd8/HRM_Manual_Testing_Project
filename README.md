@@ -20,7 +20,7 @@
 # Test Case Document
 * It is a detailed set of instructions or steps designed to validate a specific functionality or behavior of a software system. It includes preconditions, inputs, expected outcomes, and post-conditions. Test cases serve as executable documentation to verify that the software meets the specified requirements and performs as expected.
 * File uploaded in the repo of main branch. Also shared a link of file.
-* Link : 
+* Link : https://docs.google.com/spreadsheets/d/1U88-uRFoBsBmEPzTNhti3s_ul2hx_dWW/edit?usp=drive_link&ouid=106596647200074532753&rtpof=true&sd=true
   
 # Test Environment Document
 * It is a dedicated setup that replicates the production environment for testing software applications. It includes hardware, software, network configurations, and databases necessary to conduct thorough testing. The test environment ensures accurate simulation of real-world scenarios, enabling testers to identify and resolve issues before the software is deployed to the production environment.
