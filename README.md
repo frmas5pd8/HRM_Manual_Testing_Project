@@ -35,7 +35,7 @@
 # Bug Report Document
 * It is a document that provides detailed information about a discovered software defect or issue. It includes a description of the problem, steps to reproduce it, environment details, and any relevant attachments like screenshots or logs. Bug reports help developers understand, replicate, and fix the reported issues, contributing to the overall improvement of software quality.
 * File uploaded in the repo of main branch. Also shared a link of file.
-* Link : 
+* Link : https://docs.google.com/spreadsheets/d/1Xzk5b-8KWr-ZhPz_ArzvzkFn6IK4ZQUb/edit?usp=drive_link&ouid=106596647200074532753&rtpof=true&sd=true
 
 # Requirements Traceability Matrix (RTM) Document
 * It is a table that links software requirements to corresponding test cases. It ensures comprehensive test coverage and helps track the validation of each requirement throughout the testing process. RTM aids in verifying that all requirements are met, fostering effective test management and alignment with project objectives.
