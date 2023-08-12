@@ -5,7 +5,7 @@
 # Functional Requirement Specification (FRS) Report
 * It is a concise and detailed document outlining the functional capabilities and features required for a software system or application. It defines how the system should behave in response to specific inputs and conditions, specifying the expected outputs. FRS serves as a blueprint that guides the development team in designing and implementing the software to meet the client's needs and expectations accurately.
 * File uploaded in the repo of main branch. Also shared a link of file.
-* Link : 
+* Link : https://drive.google.com/file/d/1pSn86r8x6pxXTzW0YkbvB944xDL-ggNP/view?usp=drive_link
   
 # Test Plan Document
 * It is a comprehensive document that outlines the approach, objectives, scope, resources, and schedule for testing a software application or system. It defines the testing strategies, test cases, and methodologies to ensure thorough verification and validation of the software's functionality. The test plan serves as a roadmap for the testing process, ensuring that all aspects of the software are examined to identify and resolve any issues before its release.
