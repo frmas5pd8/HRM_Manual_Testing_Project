@@ -8,6 +8,7 @@
 * Link : https://drive.google.com/file/d/1BnGU8TGc3fe9Mczt6Ytx7sjDmzd4CFTf/view?usp=drive_link
   
 # Test Plan Document
+* It is a comprehensive document that outlines the approach, objectives, scope, resources, and schedule for testing a software application or system. It defines the testing strategies, test cases, and methodologies to ensure thorough verification and validation of the software's functionality. The test plan serves as a roadmap for the testing process, ensuring that all aspects of the software are examined to identify and resolve any issues before its release.
 * File uploaded in the repo of main branch. Also shared a link of file.
 * Link : 
   
